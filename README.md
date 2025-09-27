@@ -1,1 +1,1 @@
-This repository contains project related to 
+This repository contains project related to Rashberry Pi Pico 
